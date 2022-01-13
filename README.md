@@ -1,4 +1,4 @@
-                                                              WeRateDogs Udacity Project
+                                                         WeRateDogs Udacity Project
 Wrangling Efforts
 “A brief report to outline the wrangling efforts, type of data and analysis, and the insights extracted from twitter WeRateDogs data archives”
 
